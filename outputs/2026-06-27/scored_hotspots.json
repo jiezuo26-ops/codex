@@ -2,13 +2,90 @@
   {
     "source": {
       "platform": "wechat_creator",
+      "name": "跨境小波儿",
+      "url": "https://m.cifnews.com/observer/kjxb",
+      "type": "creator",
+      "priority": "8"
+    },
+    "url": "https://m.cifnews.com/observer/kjxb",
+    "fetched_at": "2026-06-27T09:27:31.580054+00:00",
+    "success": true,
+    "title": "跨境小波儿,跨境小波儿简介、微信公众号-跨境电商雨果网",
+    "summary": "跨境小波儿为跨境电商雨果网观察员,微信公众号奇点出海。跨境小波儿从事亚马逊行业六年，热衷于知识分享与交流，是亚马逊华南大区种子卖家，奇点出海联合创始人，拥有丰富的亚马逊账号注册、品牌注册、税务合规、运营与产品开发经验，熟悉平台规则、流量分发算法、市场营销理论等，擅长运营推广、数据分析与优化、广告策略研究等。",
+    "published_at": "",
+    "error": "",
+    "need_manual_input": false,
+    "status_code": 200,
+    "score": 39,
+    "score_details": {
+      "profit_impact": {
+        "label": "利润影响",
+        "score": 0,
+        "max_score": 30,
+        "matched_keywords": []
+      },
+      "operation_risk": {
+        "label": "运营风险",
+        "score": 14,
+        "max_score": 20,
+        "matched_keywords": [
+          "合规",
+          "账号"
+        ]
+      },
+      "traffic_impact": {
+        "label": "流量影响",
+        "score": 11,
+        "max_score": 20,
+        "matched_keywords": [
+          "流量"
+        ]
+      },
+      "sharing_value": {
+        "label": "传播价值",
+        "score": 11,
+        "max_score": 20,
+        "matched_keywords": [
+          "公众号"
+        ]
+      },
+      "recency": {
+        "label": "时效性",
+        "score": 3,
+        "max_score": 10,
+        "reason": "未获取到发布时间，保留少量时效分，需人工核查"
+      }
+    },
+    "fact_check_required": true,
+    "risk_level": "high",
+    "source_urls": [
+      "https://m.cifnews.com/observer/kjxb"
+    ],
+    "uncertain_points": [
+      "涉及政策、合规、账户健康、封号、下架或侵权，必须核查亚马逊官方政策或后台通知。",
+      "涉及规则变化或发布时间不明确，必须核查生效日期、适用站点和适用范围。"
+    ],
+    "publish_warning": "发布前必须人工核查：该热点涉及费用、政策、生效日期、封号、账户健康或合规等高风险信息。",
+    "risk_keywords": {
+      "fees": [],
+      "policy": [
+        "合规",
+        "规则"
+      ],
+      "effective_date": []
+    },
+    "scoring_version": "profit30_risk20_traffic20_share20_recency10"
+  },
+  {
+    "source": {
+      "platform": "wechat_creator",
       "name": "熊哥的跨境笔记",
       "url": "https://m.amz123.com/author-201",
       "type": "creator",
       "priority": "7"
     },
     "url": "https://m.amz123.com/author-201",
-    "fetched_at": "2026-06-27T02:20:48.255256+00:00",
+    "fetched_at": "2026-06-27T09:27:42.923627+00:00",
     "success": true,
     "title": "熊哥的跨境笔记简介、微信公众号_熊哥的跨境笔记最新文章-AMZ123跨境导航",
     "summary": "各国跨境电商政策解读，干货分享，个人感想",
@@ -81,7 +158,7 @@
       "priority": "7"
     },
     "url": "https://m.amz123.com/author-103523",
-    "fetched_at": "2026-06-27T02:20:55.705314+00:00",
+    "fetched_at": "2026-06-27T09:27:50.556905+00:00",
     "success": true,
     "title": "Wendy聊聊独立站简介、微信公众号_Wendy聊聊独立站最新文章-AMZ123跨境导航",
     "summary": "从事跨境电商行业6年。3年前开始接触独立站，期间也踩过不少坑。熟知Google、Facebook、LinkedIn、TikTok、Pinterest等主流流量平台玩法，具有丰富的物流、支付资源。",
@@ -151,7 +228,7 @@
       "priority": "7"
     },
     "url": "https://m.amz123.com/author-51958",
-    "fetched_at": "2026-06-27T02:20:58.837320+00:00",
+    "fetched_at": "2026-06-27T09:27:53.069437+00:00",
     "success": true,
     "title": "跨境侵权哥简介、微信公众号_跨境侵权哥最新文章-AMZ123跨境导航",
     "summary": "跨境电商侵权资讯分享",
@@ -224,7 +301,7 @@
       "priority": "7"
     },
     "url": "https://m.amz123.com/author-13653",
-    "fetched_at": "2026-06-27T02:20:53.022886+00:00",
+    "fetched_at": "2026-06-27T09:27:45.882472+00:00",
     "success": true,
     "title": "悉尼刘哥简介、微信公众号_悉尼刘哥最新文章-AMZ123跨境导航",
     "summary": "电商独立站Shopify开店营销引流指导教程分享",
@@ -293,7 +370,7 @@
       "priority": "8"
     },
     "url": "https://www.xiaohongshu.com/search_result?keyword=%E8%B7%A8%E5%A2%83%E5%B0%8FA",
-    "fetched_at": "2026-06-27T02:20:28.965403+00:00",
+    "fetched_at": "2026-06-27T09:27:21.071465+00:00",
     "success": true,
     "title": "跨境小A - 小红书搜索",
     "summary": "沪ICP备13030189号 | 营业执照 | 2024沪公网安备31010102002533号 | 增值电信业务经营许可证：沪B2-20150021 | 医疗器械网络交易服务第三方平台备案：(沪)网械平台备字[2019]第00006号 | 互联网药品信息服务资格证书：(沪)-经营性-2023-0144 | 违法不良信息举报电话：4006676810 | 上海市互联网举报中心 | 网上有害信息举报专区 | 自营经营者信息 | 网络文化经营许可证：沪网文(2024)1344-086号 | 个性化推荐算法 网信算备310101216601302230019号 沪ICP备13030189号 | 营业执照 | 2024沪公网安备31010102002533号 | 增值电信业务经营许可证：沪B2-20150021 | 医疗器械网络交易服务第三方平台备案：(沪)网械平台备字[2019]第00006号 | 互联网药品信息服务资格证书：(沪)-经营性-2023-0144 | 违法不良信息举报电话：4006676810 | 上海市互联网举报中心 | 网上有害信息举报专区 | 自营经营者信息 | 网络文化经营许可证：沪网文(2024)1344-086号 | 个性化推荐算法 网信算备310101216601302230019号",
@@ -361,7 +438,7 @@
       "priority": "8"
     },
     "url": "https://www.xiaohongshu.com/search_result?keyword=Jennifer%E7%8E%A9%E8%B7%A8%E5%A2%83",
-    "fetched_at": "2026-06-27T02:20:29.489545+00:00",
+    "fetched_at": "2026-06-27T09:27:22.155947+00:00",
     "success": true,
     "title": "Jennifer玩跨境 - 小红书搜索",
     "summary": "沪ICP备13030189号 | 营业执照 | 2024沪公网安备31010102002533号 | 增值电信业务经营许可证：沪B2-20150021 | 医疗器械网络交易服务第三方平台备案：(沪)网械平台备字[2019]第00006号 | 互联网药品信息服务资格证书：(沪)-经营性-2023-0144 | 违法不良信息举报电话：4006676810 | 上海市互联网举报中心 | 网上有害信息举报专区 | 自营经营者信息 | 网络文化经营许可证：沪网文(2024)1344-086号 | 个性化推荐算法 网信算备310101216601302230019号 沪ICP备13030189号 | 营业执照 | 2024沪公网安备31010102002533号 | 增值电信业务经营许可证：沪B2-20150021 | 医疗器械网络交易服务第三方平台备案：(沪)网械平台备字[2019]第00006号 | 互联网药品信息服务资格证书：(沪)-经营性-2023-0144 | 违法不良信息举报电话：4006676810 | 上海市互联网举报中心 | 网上有害信息举报专区 | 自营经营者信息 | 网络文化经营许可证：沪网文(2024)1344-086号 | 个性化推荐算法 网信算备310101216601302230019号",
@@ -429,7 +506,7 @@
       "priority": "8"
     },
     "url": "https://www.xiaohongshu.com/search_result?keyword=%E5%B0%8F%E6%8D%B7%E8%81%8A%E8%B7%A8%E5%A2%83",
-    "fetched_at": "2026-06-27T02:20:30.154941+00:00",
+    "fetched_at": "2026-06-27T09:27:23.004863+00:00",
     "success": true,
     "title": "小捷聊跨境 - 小红书搜索",
     "summary": "沪ICP备13030189号 | 营业执照 | 2024沪公网安备31010102002533号 | 增值电信业务经营许可证：沪B2-20150021 | 医疗器械网络交易服务第三方平台备案：(沪)网械平台备字[2019]第00006号 | 互联网药品信息服务资格证书：(沪)-经营性-2023-0144 | 违法不良信息举报电话：4006676810 | 上海市互联网举报中心 | 网上有害信息举报专区 | 自营经营者信息 | 网络文化经营许可证：沪网文(2024)1344-086号 | 个性化推荐算法 网信算备310101216601302230019号 沪ICP备13030189号 | 营业执照 | 2024沪公网安备31010102002533号 | 增值电信业务经营许可证：沪B2-20150021 | 医疗器械网络交易服务第三方平台备案：(沪)网械平台备字[2019]第00006号 | 互联网药品信息服务资格证书：(沪)-经营性-2023-0144 | 违法不良信息举报电话：4006676810 | 上海市互联网举报中心 | 网上有害信息举报专区 | 自营经营者信息 | 网络文化经营许可证：沪网文(2024)1344-086号 | 个性化推荐算法 网信算备310101216601302230019号",
@@ -491,13 +568,149 @@
   {
     "source": {
       "platform": "wechat_creator",
+      "name": "MARK跨境",
+      "url": "https://m.cifnews.com/observer/mkj",
+      "type": "creator",
+      "priority": "8"
+    },
+    "url": "https://m.cifnews.com/observer/mkj",
+    "fetched_at": "2026-06-27T09:27:29.471776+00:00",
+    "success": true,
+    "title": "MARK跨境,MARK跨境简介、微信公众号-跨境电商雨果网",
+    "summary": "MARK跨境为跨境电商雨果网观察员,十年跨境经验：shopify、独立站、AMAZON、eBay、AliExpress、shopee、Lazada、Cdiscount、OZON、allegro...各渠道销售运营专家、开店项目经理、平台构建方、个人卖家！公众号：天识Ant Links",
+    "published_at": "",
+    "error": "",
+    "need_manual_input": false,
+    "status_code": 200,
+    "score": 14,
+    "score_details": {
+      "profit_impact": {
+        "label": "利润影响",
+        "score": 0,
+        "max_score": 30,
+        "matched_keywords": []
+      },
+      "operation_risk": {
+        "label": "运营风险",
+        "score": 0,
+        "max_score": 20,
+        "matched_keywords": []
+      },
+      "traffic_impact": {
+        "label": "流量影响",
+        "score": 0,
+        "max_score": 20,
+        "matched_keywords": []
+      },
+      "sharing_value": {
+        "label": "传播价值",
+        "score": 11,
+        "max_score": 20,
+        "matched_keywords": [
+          "公众号"
+        ]
+      },
+      "recency": {
+        "label": "时效性",
+        "score": 3,
+        "max_score": 10,
+        "reason": "未获取到发布时间，保留少量时效分，需人工核查"
+      }
+    },
+    "fact_check_required": true,
+    "risk_level": "medium",
+    "source_urls": [
+      "https://m.cifnews.com/observer/mkj"
+    ],
+    "uncertain_points": [
+      "涉及规则变化或发布时间不明确，必须核查生效日期、适用站点和适用范围。"
+    ],
+    "publish_warning": "发布前需要人工核查：该热点存在来源、时间或正文不完整等不确定点。",
+    "risk_keywords": {
+      "fees": [],
+      "policy": [],
+      "effective_date": []
+    },
+    "scoring_version": "profit30_risk20_traffic20_share20_recency10"
+  },
+  {
+    "source": {
+      "platform": "wechat_creator",
+      "name": "亚马逊胖蝌蚪",
+      "url": "https://m.cifnews.com/observer/pang",
+      "type": "creator",
+      "priority": "8"
+    },
+    "url": "https://m.cifnews.com/observer/pang",
+    "fetched_at": "2026-06-27T09:27:33.184239+00:00",
+    "success": true,
+    "title": "亚马逊胖蝌蚪,亚马逊胖蝌蚪简介、微信公众号-跨境电商雨果网",
+    "summary": "亚马逊胖蝌蚪为跨境电商雨果网观察员,一些技术的测试员：研究亚马逊seo，ppc，shopify，社交媒体引流。公众号：卖家胖蝌蚪",
+    "published_at": "",
+    "error": "",
+    "need_manual_input": false,
+    "status_code": 200,
+    "score": 14,
+    "score_details": {
+      "profit_impact": {
+        "label": "利润影响",
+        "score": 0,
+        "max_score": 30,
+        "matched_keywords": []
+      },
+      "operation_risk": {
+        "label": "运营风险",
+        "score": 0,
+        "max_score": 20,
+        "matched_keywords": []
+      },
+      "traffic_impact": {
+        "label": "流量影响",
+        "score": 0,
+        "max_score": 20,
+        "matched_keywords": []
+      },
+      "sharing_value": {
+        "label": "传播价值",
+        "score": 11,
+        "max_score": 20,
+        "matched_keywords": [
+          "公众号"
+        ]
+      },
+      "recency": {
+        "label": "时效性",
+        "score": 3,
+        "max_score": 10,
+        "reason": "未获取到发布时间，保留少量时效分，需人工核查"
+      }
+    },
+    "fact_check_required": true,
+    "risk_level": "medium",
+    "source_urls": [
+      "https://m.cifnews.com/observer/pang"
+    ],
+    "uncertain_points": [
+      "涉及规则变化或发布时间不明确，必须核查生效日期、适用站点和适用范围。"
+    ],
+    "publish_warning": "发布前需要人工核查：该热点存在来源、时间或正文不完整等不确定点。",
+    "risk_keywords": {
+      "fees": [],
+      "policy": [],
+      "effective_date": []
+    },
+    "scoring_version": "profit30_risk20_traffic20_share20_recency10"
+  },
+  {
+    "source": {
+      "platform": "wechat_creator",
       "name": "酷哥说电商",
       "url": "https://m.amz123.com/author-263",
       "type": "creator",
       "priority": "8"
     },
     "url": "https://m.amz123.com/author-263",
-    "fetched_at": "2026-06-27T02:20:41.885612+00:00",
+    "fetched_at": "2026-06-27T09:27:34.747279+00:00",
     "success": true,
     "title": "酷哥说电商简介、微信公众号_酷哥说电商最新文章-AMZ123跨境导航",
     "summary": "酷哥说电商——做一枚善于思考的电商人，专为Amazon跨境人提供最实操的经验与干货",
@@ -565,7 +778,7 @@
       "priority": "8"
     },
     "url": "https://m.amz123.com/author-102783",
-    "fetched_at": "2026-06-27T02:20:44.852011+00:00",
+    "fetched_at": "2026-06-27T09:27:39.192930+00:00",
     "success": true,
     "title": "跨境小M哥简介、微信公众号_跨境小M哥最新文章-AMZ123跨境导航",
     "summary": "亚马逊一线卖家，专注跨境平台动态研究，跨境运营知识分享。",
@@ -633,7 +846,7 @@
       "priority": "7"
     },
     "url": "https://www.xiaohongshu.com/search_result?keyword=%E5%B8%8C%E5%A3%B0%E7%A2%8E%E7%A2%8E%E5%BF%B5",
-    "fetched_at": "2026-06-27T02:20:30.692292+00:00",
+    "fetched_at": "2026-06-27T09:27:23.834198+00:00",
     "success": true,
     "title": "希声碎碎念 - 小红书搜索",
     "summary": "沪ICP备13030189号 | 营业执照 | 2024沪公网安备31010102002533号 | 增值电信业务经营许可证：沪B2-20150021 | 医疗器械网络交易服务第三方平台备案：(沪)网械平台备字[2019]第00006号 | 互联网药品信息服务资格证书：(沪)-经营性-2023-0144 | 违法不良信息举报电话：4006676810 | 上海市互联网举报中心 | 网上有害信息举报专区 | 自营经营者信息 | 网络文化经营许可证：沪网文(2024)1344-086号 | 个性化推荐算法 网信算备310101216601302230019号 沪ICP备13030189号 | 营业执照 | 2024沪公网安备31010102002533号 | 增值电信业务经营许可证：沪B2-20150021 | 医疗器械网络交易服务第三方平台备案：(沪)网械平台备字[2019]第00006号 | 互联网药品信息服务资格证书：(沪)-经营性-2023-0144 | 违法不良信息举报电话：4006676810 | 上海市互联网举报中心 | 网上有害信息举报专区 | 自营经营者信息 | 网络文化经营许可证：沪网文(2024)1344-086号 | 个性化推荐算法 网信算备310101216601302230019号",
@@ -701,7 +914,7 @@
       "priority": "7"
     },
     "url": "https://www.xiaohongshu.com/search_result?keyword=%E8%B7%A8%E5%A2%83%E7%A7%BB%E8%8A%B1%E5%AE%AB",
-    "fetched_at": "2026-06-27T02:20:31.187945+00:00",
+    "fetched_at": "2026-06-27T09:27:24.739251+00:00",
     "success": true,
     "title": "跨境移花宫 - 小红书搜索",
     "summary": "沪ICP备13030189号 | 营业执照 | 2024沪公网安备31010102002533号 | 增值电信业务经营许可证：沪B2-20150021 | 医疗器械网络交易服务第三方平台备案：(沪)网械平台备字[2019]第00006号 | 互联网药品信息服务资格证书：(沪)-经营性-2023-0144 | 违法不良信息举报电话：4006676810 | 上海市互联网举报中心 | 网上有害信息举报专区 | 自营经营者信息 | 网络文化经营许可证：沪网文(2024)1344-086号 | 个性化推荐算法 网信算备310101216601302230019号 沪ICP备13030189号 | 营业执照 | 2024沪公网安备31010102002533号 | 增值电信业务经营许可证：沪B2-20150021 | 医疗器械网络交易服务第三方平台备案：(沪)网械平台备字[2019]第00006号 | 互联网药品信息服务资格证书：(沪)-经营性-2023-0144 | 违法不良信息举报电话：4006676810 | 上海市互联网举报中心 | 网上有害信息举报专区 | 自营经营者信息 | 网络文化经营许可证：沪网文(2024)1344-086号 | 个性化推荐算法 网信算备310101216601302230019号",
@@ -769,7 +982,7 @@
       "priority": "7"
     },
     "url": "https://www.xiaohongshu.com/search_result?keyword=%E9%9B%AA%E7%90%83%E7%AB%99%E5%A4%96",
-    "fetched_at": "2026-06-27T02:20:31.729202+00:00",
+    "fetched_at": "2026-06-27T09:27:25.541275+00:00",
     "success": true,
     "title": "雪球站外 - 小红书搜索",
     "summary": "沪ICP备13030189号 | 营业执照 | 2024沪公网安备31010102002533号 | 增值电信业务经营许可证：沪B2-20150021 | 医疗器械网络交易服务第三方平台备案：(沪)网械平台备字[2019]第00006号 | 互联网药品信息服务资格证书：(沪)-经营性-2023-0144 | 违法不良信息举报电话：4006676810 | 上海市互联网举报中心 | 网上有害信息举报专区 | 自营经营者信息 | 网络文化经营许可证：沪网文(2024)1344-086号 | 个性化推荐算法 网信算备310101216601302230019号 沪ICP备13030189号 | 营业执照 | 2024沪公网安备31010102002533号 | 增值电信业务经营许可证：沪B2-20150021 | 医疗器械网络交易服务第三方平台备案：(沪)网械平台备字[2019]第00006号 | 互联网药品信息服务资格证书：(沪)-经营性-2023-0144 | 违法不良信息举报电话：4006676810 | 上海市互联网举报中心 | 网上有害信息举报专区 | 自营经营者信息 | 网络文化经营许可证：沪网文(2024)1344-086号 | 个性化推荐算法 网信算备310101216601302230019号",
@@ -837,7 +1050,7 @@
       "priority": "7"
     },
     "url": "https://www.xiaohongshu.com/search_result?keyword=%E8%B7%A8%E5%A2%83%E8%80%81%E9%B8%9FMike",
-    "fetched_at": "2026-06-27T02:20:32.263641+00:00",
+    "fetched_at": "2026-06-27T09:27:26.313587+00:00",
     "success": true,
     "title": "跨境老鸟Mike - 小红书搜索",
     "summary": "沪ICP备13030189号 | 营业执照 | 2024沪公网安备31010102002533号 | 增值电信业务经营许可证：沪B2-20150021 | 医疗器械网络交易服务第三方平台备案：(沪)网械平台备字[2019]第00006号 | 互联网药品信息服务资格证书：(沪)-经营性-2023-0144 | 违法不良信息举报电话：4006676810 | 上海市互联网举报中心 | 网上有害信息举报专区 | 自营经营者信息 | 网络文化经营许可证：沪网文(2024)1344-086号 | 个性化推荐算法 网信算备310101216601302230019号 沪ICP备13030189号 | 营业执照 | 2024沪公网安备31010102002533号 | 增值电信业务经营许可证：沪B2-20150021 | 医疗器械网络交易服务第三方平台备案：(沪)网械平台备字[2019]第00006号 | 互联网药品信息服务资格证书：(沪)-经营性-2023-0144 | 违法不良信息举报电话：4006676810 | 上海市互联网举报中心 | 网上有害信息举报专区 | 自营经营者信息 | 网络文化经营许可证：沪网文(2024)1344-086号 | 个性化推荐算法 网信算备310101216601302230019号",
@@ -905,7 +1118,7 @@
       "priority": "7"
     },
     "url": "https://www.xiaohongshu.com/search_result?keyword=%E4%BA%9A%E9%A9%AC%E9%80%8A%E8%BF%90%E8%90%A5%E9%98%BF%E6%98%9F",
-    "fetched_at": "2026-06-27T02:20:32.762900+00:00",
+    "fetched_at": "2026-06-27T09:27:27.079938+00:00",
     "success": true,
     "title": "亚马逊运营阿星 - 小红书搜索",
     "summary": "沪ICP备13030189号 | 营业执照 | 2024沪公网安备31010102002533号 | 增值电信业务经营许可证：沪B2-20150021 | 医疗器械网络交易服务第三方平台备案：(沪)网械平台备字[2019]第00006号 | 互联网药品信息服务资格证书：(沪)-经营性-2023-0144 | 违法不良信息举报电话：4006676810 | 上海市互联网举报中心 | 网上有害信息举报专区 | 自营经营者信息 | 网络文化经营许可证：沪网文(2024)1344-086号 | 个性化推荐算法 网信算备310101216601302230019号 沪ICP备13030189号 | 营业执照 | 2024沪公网安备31010102002533号 | 增值电信业务经营许可证：沪B2-20150021 | 医疗器械网络交易服务第三方平台备案：(沪)网械平台备字[2019]第00006号 | 互联网药品信息服务资格证书：(沪)-经营性-2023-0144 | 违法不良信息举报电话：4006676810 | 上海市互联网举报中心 | 网上有害信息举报专区 | 自营经营者信息 | 网络文化经营许可证：沪网文(2024)1344-086号 | 个性化推荐算法 网信算备310101216601302230019号",
@@ -973,7 +1186,7 @@
       "priority": "7"
     },
     "url": "https://www.xiaohongshu.com/search_result?keyword=%E4%BA%9A%E9%A9%AC%E9%80%8A%E4%B8%AA%E4%BA%BA%E5%8D%96%E5%AE%B6",
-    "fetched_at": "2026-06-27T02:20:33.369027+00:00",
+    "fetched_at": "2026-06-27T09:27:27.866680+00:00",
     "success": true,
     "title": "亚马逊个人卖家 - 小红书搜索",
     "summary": "沪ICP备13030189号 | 营业执照 | 2024沪公网安备31010102002533号 | 增值电信业务经营许可证：沪B2-20150021 | 医疗器械网络交易服务第三方平台备案：(沪)网械平台备字[2019]第00006号 | 互联网药品信息服务资格证书：(沪)-经营性-2023-0144 | 违法不良信息举报电话：4006676810 | 上海市互联网举报中心 | 网上有害信息举报专区 | 自营经营者信息 | 网络文化经营许可证：沪网文(2024)1344-086号 | 个性化推荐算法 网信算备310101216601302230019号 沪ICP备13030189号 | 营业执照 | 2024沪公网安备31010102002533号 | 增值电信业务经营许可证：沪B2-20150021 | 医疗器械网络交易服务第三方平台备案：(沪)网械平台备字[2019]第00006号 | 互联网药品信息服务资格证书：(沪)-经营性-2023-0144 | 违法不良信息举报电话：4006676810 | 上海市互联网举报中心 | 网上有害信息举报专区 | 自营经营者信息 | 网络文化经营许可证：沪网文(2024)1344-086号 | 个性化推荐算法 网信算备310101216601302230019号",
@@ -1041,7 +1254,7 @@
       "priority": "7"
     },
     "url": "https://www.xiaohongshu.com/search_result?keyword=%E4%BA%9A%E9%A9%AC%E9%80%8A%E5%B9%BF%E5%91%8A%E4%B8%AA%E4%BA%BA%E7%BB%8F%E9%AA%8C",
-    "fetched_at": "2026-06-27T02:20:34.056185+00:00",
+    "fetched_at": "2026-06-27T09:27:28.630903+00:00",
     "success": true,
     "title": "亚马逊广告个人经验 - 小红书搜索",
     "summary": "沪ICP备13030189号 | 营业执照 | 2024沪公网安备31010102002533号 | 增值电信业务经营许可证：沪B2-20150021 | 医疗器械网络交易服务第三方平台备案：(沪)网械平台备字[2019]第00006号 | 互联网药品信息服务资格证书：(沪)-经营性-2023-0144 | 违法不良信息举报电话：4006676810 | 上海市互联网举报中心 | 网上有害信息举报专区 | 自营经营者信息 | 网络文化经营许可证：沪网文(2024)1344-086号 | 个性化推荐算法 网信算备310101216601302230019号 沪ICP备13030189号 | 营业执照 | 2024沪公网安备31010102002533号 | 增值电信业务经营许可证：沪B2-20150021 | 医疗器械网络交易服务第三方平台备案：(沪)网械平台备字[2019]第00006号 | 互联网药品信息服务资格证书：(沪)-经营性-2023-0144 | 违法不良信息举报电话：4006676810 | 上海市互联网举报中心 | 网上有害信息举报专区 | 自营经营者信息 | 网络文化经营许可证：沪网文(2024)1344-086号 | 个性化推荐算法 网信算备310101216601302230019号",
@@ -1109,7 +1322,7 @@
       "priority": "6"
     },
     "url": "https://m.amz123.com/author-71128",
-    "fetched_at": "2026-06-27T02:21:00.414270+00:00",
+    "fetched_at": "2026-06-27T09:27:56.377418+00:00",
     "success": true,
     "title": "超哥电商日记简介、微信公众号_超哥电商日记最新文章-AMZ123跨境导航",
     "summary": "本号定位于分享内贸、外贸实用技能技巧。包括国内外B2B、B2C电商、海外社交媒体及国内新媒体，据此建立系统的商业思维。",
@@ -1177,7 +1390,7 @@
       "priority": "9"
     },
     "url": "https://www.douyin.com/user/MS4wLjABAAAA46kxP9WfVvfCh_eGppAxrN0FpAsakvS0JkBi5PMvdZyXgexLrSulJA22hd-IzyFM",
-    "fetched_at": "2026-06-27T02:20:26.552403+00:00",
+    "fetched_at": "2026-06-27T09:27:13.423816+00:00",
     "success": false,
     "title": "",
     "summary": "",
@@ -1250,7 +1463,7 @@
       "priority": "9"
     },
     "url": "https://www.douyin.com/user/MS4wLjABAAAAejMPMsoTSDbEXN3dn-floiylV5ACQjyinval2pLKPUHDJG0s0XgEEZl1FpDiUeTP",
-    "fetched_at": "2026-06-27T02:20:27.780155+00:00",
+    "fetched_at": "2026-06-27T09:27:15.292477+00:00",
     "success": false,
     "title": "",
     "summary": "",
@@ -1323,7 +1536,7 @@
       "priority": "9"
     },
     "url": "https://www.douyin.com/user/MS4wLjABAAAA50mp5rlmfSPWkIEBazs2EQrQNeSQSHc7VSBMz2x05MSvBpqg7E3aWbNuw6WgEgFe",
-    "fetched_at": "2026-06-27T02:20:27.909258+00:00",
+    "fetched_at": "2026-06-27T09:27:16.020210+00:00",
     "success": false,
     "title": "",
     "summary": "",
@@ -1396,7 +1609,7 @@
       "priority": "8"
     },
     "url": "https://www.douyin.com/user/MS4wLjABAAAAvJrLbz3LrfFIqthVKjlat56lsQEPDAhy8DEqiCq7wkPYn2mjJiF92GuASFbo2JPM",
-    "fetched_at": "2026-06-27T02:20:28.039879+00:00",
+    "fetched_at": "2026-06-27T09:27:16.600483+00:00",
     "success": false,
     "title": "",
     "summary": "",
@@ -1469,7 +1682,7 @@
       "priority": "8"
     },
     "url": "https://www.douyin.com/user/MS4wLjABAAAAgP086f1Lga3gqTuyfNER0rAXyZsC9JKaaEgaHC2Il-I",
-    "fetched_at": "2026-06-27T02:20:28.163913+00:00",
+    "fetched_at": "2026-06-27T09:27:16.987708+00:00",
     "success": false,
     "title": "",
     "summary": "",
@@ -1542,7 +1755,7 @@
       "priority": "8"
     },
     "url": "https://www.douyin.com/user/MS4wLjABAAAAcDRHW5-xxbA6De5Id_BenaQoD5xaZbLTUdUBZaChJJNVJgc59QQIsGgJsIYCm474",
-    "fetched_at": "2026-06-27T02:20:28.278670+00:00",
+    "fetched_at": "2026-06-27T09:27:17.912873+00:00",
     "success": false,
     "title": "",
     "summary": "",
@@ -1615,7 +1828,7 @@
       "priority": "8"
     },
     "url": "https://www.douyin.com/user/MS4wLjABAAAACPf06QEMIAGj9dMDHq51ew5UBM4xOyVDQMGDTk47os4DHzI0RT_JiiLjTyczEchr",
-    "fetched_at": "2026-06-27T02:20:28.425618+00:00",
+    "fetched_at": "2026-06-27T09:27:18.489290+00:00",
     "success": false,
     "title": "",
     "summary": "",
@@ -1688,7 +1901,7 @@
       "priority": "8"
     },
     "url": "https://www.douyin.com/user/MS4wLjABAAAAmIeNVPEZ5jprhFPYZg55Tq92LfLabS6LITgaLLKf1KE",
-    "fetched_at": "2026-06-27T02:20:28.544146+00:00",
+    "fetched_at": "2026-06-27T09:27:19.187164+00:00",
     "success": false,
     "title": "",
     "summary": "",
@@ -1754,222 +1967,6 @@
   },
   {
     "source": {
-      "platform": "wechat_creator",
-      "name": "MARK跨境",
-      "url": "https://m.cifnews.com/observer/mkj",
-      "type": "creator",
-      "priority": "8"
-    },
-    "url": "https://m.cifnews.com/observer/mkj",
-    "fetched_at": "2026-06-27T02:20:34.622245+00:00",
-    "success": false,
-    "title": "",
-    "summary": "",
-    "published_at": "",
-    "error": "HTTPError: HTTP Error 500: Internal Server Error",
-    "need_manual_input": true,
-    "score": 0,
-    "score_details": {
-      "profit_impact": {
-        "label": "利润影响",
-        "score": 0,
-        "max_score": 30,
-        "matched_keywords": []
-      },
-      "operation_risk": {
-        "label": "运营风险",
-        "score": 0,
-        "max_score": 20,
-        "matched_keywords": []
-      },
-      "traffic_impact": {
-        "label": "流量影响",
-        "score": 0,
-        "max_score": 20,
-        "matched_keywords": []
-      },
-      "sharing_value": {
-        "label": "传播价值",
-        "score": 0,
-        "max_score": 20,
-        "matched_keywords": []
-      },
-      "recency": {
-        "label": "时效性",
-        "score": 3,
-        "max_score": 10,
-        "reason": "未获取到发布时间，保留少量时效分，需人工核查"
-      },
-      "fetch_penalty": {
-        "label": "抓取失败扣分",
-        "score": -20,
-        "reason": "HTTPError: HTTP Error 500: Internal Server Error"
-      }
-    },
-    "fact_check_required": true,
-    "risk_level": "medium",
-    "source_urls": [
-      "https://m.cifnews.com/observer/mkj"
-    ],
-    "uncertain_points": [
-      "涉及规则变化或发布时间不明确，必须核查生效日期、适用站点和适用范围。",
-      "抓取存在异常，需人工打开原始页面确认。错误：HTTPError: HTTP Error 500: Internal Server Error",
-      "自动抓取结果不足，需要人工补充或确认标题、链接、正文。"
-    ],
-    "publish_warning": "发布前需要人工核查：该热点存在来源、时间或正文不完整等不确定点。",
-    "risk_keywords": {
-      "fees": [],
-      "policy": [],
-      "effective_date": []
-    },
-    "scoring_version": "profit30_risk20_traffic20_share20_recency10"
-  },
-  {
-    "source": {
-      "platform": "wechat_creator",
-      "name": "跨境小波儿",
-      "url": "https://m.cifnews.com/observer/kjxb",
-      "type": "creator",
-      "priority": "8"
-    },
-    "url": "https://m.cifnews.com/observer/kjxb",
-    "fetched_at": "2026-06-27T02:20:36.979358+00:00",
-    "success": false,
-    "title": "",
-    "summary": "",
-    "published_at": "",
-    "error": "HTTPError: HTTP Error 500: Internal Server Error",
-    "need_manual_input": true,
-    "score": 0,
-    "score_details": {
-      "profit_impact": {
-        "label": "利润影响",
-        "score": 0,
-        "max_score": 30,
-        "matched_keywords": []
-      },
-      "operation_risk": {
-        "label": "运营风险",
-        "score": 0,
-        "max_score": 20,
-        "matched_keywords": []
-      },
-      "traffic_impact": {
-        "label": "流量影响",
-        "score": 0,
-        "max_score": 20,
-        "matched_keywords": []
-      },
-      "sharing_value": {
-        "label": "传播价值",
-        "score": 0,
-        "max_score": 20,
-        "matched_keywords": []
-      },
-      "recency": {
-        "label": "时效性",
-        "score": 3,
-        "max_score": 10,
-        "reason": "未获取到发布时间，保留少量时效分，需人工核查"
-      },
-      "fetch_penalty": {
-        "label": "抓取失败扣分",
-        "score": -20,
-        "reason": "HTTPError: HTTP Error 500: Internal Server Error"
-      }
-    },
-    "fact_check_required": true,
-    "risk_level": "medium",
-    "source_urls": [
-      "https://m.cifnews.com/observer/kjxb"
-    ],
-    "uncertain_points": [
-      "涉及规则变化或发布时间不明确，必须核查生效日期、适用站点和适用范围。",
-      "抓取存在异常，需人工打开原始页面确认。错误：HTTPError: HTTP Error 500: Internal Server Error",
-      "自动抓取结果不足，需要人工补充或确认标题、链接、正文。"
-    ],
-    "publish_warning": "发布前需要人工核查：该热点存在来源、时间或正文不完整等不确定点。",
-    "risk_keywords": {
-      "fees": [],
-      "policy": [],
-      "effective_date": []
-    },
-    "scoring_version": "profit30_risk20_traffic20_share20_recency10"
-  },
-  {
-    "source": {
-      "platform": "wechat_creator",
-      "name": "亚马逊胖蝌蚪",
-      "url": "https://m.cifnews.com/observer/pang",
-      "type": "creator",
-      "priority": "8"
-    },
-    "url": "https://m.cifnews.com/observer/pang",
-    "fetched_at": "2026-06-27T02:20:39.325371+00:00",
-    "success": false,
-    "title": "",
-    "summary": "",
-    "published_at": "",
-    "error": "HTTPError: HTTP Error 500: Internal Server Error",
-    "need_manual_input": true,
-    "score": 0,
-    "score_details": {
-      "profit_impact": {
-        "label": "利润影响",
-        "score": 0,
-        "max_score": 30,
-        "matched_keywords": []
-      },
-      "operation_risk": {
-        "label": "运营风险",
-        "score": 0,
-        "max_score": 20,
-        "matched_keywords": []
-      },
-      "traffic_impact": {
-        "label": "流量影响",
-        "score": 0,
-        "max_score": 20,
-        "matched_keywords": []
-      },
-      "sharing_value": {
-        "label": "传播价值",
-        "score": 0,
-        "max_score": 20,
-        "matched_keywords": []
-      },
-      "recency": {
-        "label": "时效性",
-        "score": 3,
-        "max_score": 10,
-        "reason": "未获取到发布时间，保留少量时效分，需人工核查"
-      },
-      "fetch_penalty": {
-        "label": "抓取失败扣分",
-        "score": -20,
-        "reason": "HTTPError: HTTP Error 500: Internal Server Error"
-      }
-    },
-    "fact_check_required": true,
-    "risk_level": "medium",
-    "source_urls": [
-      "https://m.cifnews.com/observer/pang"
-    ],
-    "uncertain_points": [
-      "涉及规则变化或发布时间不明确，必须核查生效日期、适用站点和适用范围。",
-      "抓取存在异常，需人工打开原始页面确认。错误：HTTPError: HTTP Error 500: Internal Server Error",
-      "自动抓取结果不足，需要人工补充或确认标题、链接、正文。"
-    ],
-    "publish_warning": "发布前需要人工核查：该热点存在来源、时间或正文不完整等不确定点。",
-    "risk_keywords": {
-      "fees": [],
-      "policy": [],
-      "effective_date": []
-    },
-    "scoring_version": "profit30_risk20_traffic20_share20_recency10"
-  },
-  {
-    "source": {
       "platform": "douyin",
       "name": "Wade聊跨境电商",
       "url": "https://www.douyin.com/user/MS4wLjABAAAAKMyOsFl6uH-bXMgCAU2kYzYVUC67lPYXUfgcMxLENy8",
@@ -1977,7 +1974,7 @@
       "priority": "7"
     },
     "url": "https://www.douyin.com/user/MS4wLjABAAAAKMyOsFl6uH-bXMgCAU2kYzYVUC67lPYXUfgcMxLENy8",
-    "fetched_at": "2026-06-27T02:20:28.698688+00:00",
+    "fetched_at": "2026-06-27T09:27:19.781306+00:00",
     "success": false,
     "title": "",
     "summary": "",
@@ -2050,7 +2047,7 @@
       "priority": "7"
     },
     "url": "https://www.douyin.com/user/MS4wLjABAAAA8phqUCaj18keyiTU1o2OBVxGlFRrZwD7iJ96n51bckR5SBQZbg39zm8uEsiCVJeQ",
-    "fetched_at": "2026-06-27T02:20:28.834346+00:00",
+    "fetched_at": "2026-06-27T09:27:20.247880+00:00",
     "success": false,
     "title": "",
     "summary": "",
