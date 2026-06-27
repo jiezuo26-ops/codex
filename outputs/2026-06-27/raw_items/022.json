@@ -1,0 +1,17 @@
+{
+  "source": {
+    "platform": "wechat_creator",
+    "name": "跨境小波儿",
+    "url": "https://m.cifnews.com/observer/kjxb",
+    "type": "creator",
+    "priority": "8"
+  },
+  "url": "https://m.cifnews.com/observer/kjxb",
+  "fetched_at": "2026-06-27T02:20:36.979358+00:00",
+  "success": false,
+  "title": "",
+  "summary": "",
+  "published_at": "",
+  "error": "HTTPError: HTTP Error 500: Internal Server Error",
+  "need_manual_input": true
+}
