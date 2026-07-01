@@ -1,0 +1,18 @@
+{
+  "source": {
+    "platform": "douyin",
+    "name": "Skyla跨境电商",
+    "url": "https://www.douyin.com/user/MS4wLjABAAAACPf06QEMIAGj9dMDHq51ew5UBM4xOyVDQMGDTk47os4DHzI0RT_JiiLjTyczEchr",
+    "type": "creator",
+    "priority": "8"
+  },
+  "url": "https://www.douyin.com/user/MS4wLjABAAAACPf06QEMIAGj9dMDHq51ew5UBM4xOyVDQMGDTk47os4DHzI0RT_JiiLjTyczEchr",
+  "fetched_at": "2026-07-01T12:21:26.072406+00:00",
+  "success": false,
+  "title": "",
+  "summary": "",
+  "published_at": "",
+  "error": "页面可访问，但未提取到有效标题或正文，建议人工补充标题、链接、正文。",
+  "need_manual_input": true,
+  "status_code": 200
+}

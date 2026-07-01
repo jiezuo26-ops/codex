@@ -1,0 +1,18 @@
+{
+  "source": {
+    "platform": "douyin",
+    "name": "跨境问题找朵拉",
+    "url": "https://www.douyin.com/user/MS4wLjABAAAA8phqUCaj18keyiTU1o2OBVxGlFRrZwD7iJ96n51bckR5SBQZbg39zm8uEsiCVJeQ",
+    "type": "creator",
+    "priority": "7"
+  },
+  "url": "https://www.douyin.com/user/MS4wLjABAAAA8phqUCaj18keyiTU1o2OBVxGlFRrZwD7iJ96n51bckR5SBQZbg39zm8uEsiCVJeQ",
+  "fetched_at": "2026-07-01T12:21:28.574650+00:00",
+  "success": false,
+  "title": "",
+  "summary": "",
+  "published_at": "",
+  "error": "页面可访问，但未提取到有效标题或正文，建议人工补充标题、链接、正文。",
+  "need_manual_input": true,
+  "status_code": 200
+}
