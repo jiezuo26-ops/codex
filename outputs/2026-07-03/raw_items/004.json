@@ -1,0 +1,18 @@
+{
+  "source": {
+    "platform": "douyin",
+    "name": "跨境电商365",
+    "url": "https://www.douyin.com/user/MS4wLjABAAAAvJrLbz3LrfFIqthVKjlat56lsQEPDAhy8DEqiCq7wkPYn2mjJiF92GuASFbo2JPM",
+    "type": "creator",
+    "priority": "8"
+  },
+  "url": "https://www.douyin.com/user/MS4wLjABAAAAvJrLbz3LrfFIqthVKjlat56lsQEPDAhy8DEqiCq7wkPYn2mjJiF92GuASFbo2JPM",
+  "fetched_at": "2026-07-03T11:40:48.690376+00:00",
+  "success": false,
+  "title": "",
+  "summary": "",
+  "published_at": "",
+  "error": "页面可访问，但未提取到有效标题或正文，建议人工补充标题、链接、正文。",
+  "need_manual_input": true,
+  "status_code": 200
+}
