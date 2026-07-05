@@ -1,0 +1,17 @@
+{
+  "source": {
+    "platform": "xiaohongshu_search",
+    "name": "小捷聊跨境",
+    "url": "https://www.xiaohongshu.com/search_result?keyword=%E5%B0%8F%E6%8D%B7%E8%81%8A%E8%B7%A8%E5%A2%83",
+    "type": "creator_search",
+    "priority": "8"
+  },
+  "url": "https://www.xiaohongshu.com/search_result?keyword=%E5%B0%8F%E6%8D%B7%E8%81%8A%E8%B7%A8%E5%A2%83",
+  "fetched_at": "2026-07-05T10:29:53.250754+00:00",
+  "success": false,
+  "title": "",
+  "summary": "",
+  "published_at": "",
+  "error": "URLError: <urlopen error [Errno 101] Network is unreachable>",
+  "need_manual_input": true
+}

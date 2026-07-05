@@ -1,0 +1,17 @@
+{
+  "source": {
+    "platform": "xiaohongshu_search",
+    "name": "亚马逊运营阿星",
+    "url": "https://www.xiaohongshu.com/search_result?keyword=%E4%BA%9A%E9%A9%AC%E9%80%8A%E8%BF%90%E8%90%A5%E9%98%BF%E6%98%9F",
+    "type": "creator_search",
+    "priority": "7"
+  },
+  "url": "https://www.xiaohongshu.com/search_result?keyword=%E4%BA%9A%E9%A9%AC%E9%80%8A%E8%BF%90%E8%90%A5%E9%98%BF%E6%98%9F",
+  "fetched_at": "2026-07-05T10:31:33.711891+00:00",
+  "success": false,
+  "title": "",
+  "summary": "",
+  "published_at": "",
+  "error": "URLError: <urlopen error [Errno 101] Network is unreachable>",
+  "need_manual_input": true
+}

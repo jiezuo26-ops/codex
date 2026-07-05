@@ -1,0 +1,18 @@
+{
+  "source": {
+    "platform": "douyin",
+    "name": "Wade聊跨境电商",
+    "url": "https://www.douyin.com/user/MS4wLjABAAAAKMyOsFl6uH-bXMgCAU2kYzYVUC67lPYXUfgcMxLENy8",
+    "type": "creator",
+    "priority": "7"
+  },
+  "url": "https://www.douyin.com/user/MS4wLjABAAAAKMyOsFl6uH-bXMgCAU2kYzYVUC67lPYXUfgcMxLENy8",
+  "fetched_at": "2026-07-05T10:29:11.160811+00:00",
+  "success": false,
+  "title": "",
+  "summary": "",
+  "published_at": "",
+  "error": "页面可访问，但未提取到有效标题或正文，建议人工补充标题、链接、正文。",
+  "need_manual_input": true,
+  "status_code": 200
+}
