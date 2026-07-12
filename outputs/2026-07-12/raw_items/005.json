@@ -1,0 +1,18 @@
+{
+  "source": {
+    "platform": "douyin",
+    "name": "跨境小学生Shawn",
+    "url": "https://www.douyin.com/user/MS4wLjABAAAAgP086f1Lga3gqTuyfNER0rAXyZsC9JKaaEgaHC2Il-I",
+    "type": "creator",
+    "priority": "8"
+  },
+  "url": "https://www.douyin.com/user/MS4wLjABAAAAgP086f1Lga3gqTuyfNER0rAXyZsC9JKaaEgaHC2Il-I",
+  "fetched_at": "2026-07-12T09:29:27.337100+00:00",
+  "success": false,
+  "title": "",
+  "summary": "",
+  "published_at": "",
+  "error": "页面可访问，但未提取到有效标题或正文，建议人工补充标题、链接、正文。",
+  "need_manual_input": true,
+  "status_code": 200
+}
