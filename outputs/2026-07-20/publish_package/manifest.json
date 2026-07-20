@@ -1,0 +1,21 @@
+{
+  "date": "2026-07-20",
+  "top_hotspots_count": 0,
+  "package_dir": "/home/runner/work/codex/codex/outputs/2026-07-20/publish_package",
+  "positioning": "帮助亚马逊卖家判断：哪些平台变化会影响利润？哪些流量变化值得跟？哪些内容趋势能提高转化？哪些视觉/视频动作现在更值得做？自然引流到红人视频、亚马逊可购买视频、主图视频、A+、Listing视觉优化、AI视频内容。",
+  "required_sections": [
+    "今日热点标题",
+    "为什么值得做",
+    "小红书图文脚本",
+    "公众号文章",
+    "抖音口播",
+    "论坛帖",
+    "配图建议",
+    "风险提醒",
+    "参考来源"
+  ],
+  "files": [
+    "README.md",
+    "today_publish_package.md"
+  ]
+}
