@@ -1,0 +1,18 @@
+{
+  "source": {
+    "platform": "xiaohongshu_search",
+    "name": "跨境小A",
+    "url": "https://www.xiaohongshu.com/search_result?keyword=%E8%B7%A8%E5%A2%83%E5%B0%8FA",
+    "type": "creator_search",
+    "priority": "8"
+  },
+  "url": "https://www.xiaohongshu.com/search_result?keyword=%E8%B7%A8%E5%A2%83%E5%B0%8FA",
+  "fetched_at": "2026-07-21T10:34:46.811616+00:00",
+  "success": true,
+  "title": "跨境小A - 小红书搜索",
+  "summary": "",
+  "published_at": "",
+  "error": "",
+  "need_manual_input": false,
+  "status_code": 200
+}

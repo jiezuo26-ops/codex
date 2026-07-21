@@ -1,0 +1,18 @@
+{
+  "source": {
+    "platform": "xiaohongshu_search",
+    "name": "雪球站外",
+    "url": "https://www.xiaohongshu.com/search_result?keyword=%E9%9B%AA%E7%90%83%E7%AB%99%E5%A4%96",
+    "type": "creator_search",
+    "priority": "7"
+  },
+  "url": "https://www.xiaohongshu.com/search_result?keyword=%E9%9B%AA%E7%90%83%E7%AB%99%E5%A4%96",
+  "fetched_at": "2026-07-21T10:34:52.076159+00:00",
+  "success": true,
+  "title": "雪球站外 - 小红书搜索",
+  "summary": "",
+  "published_at": "",
+  "error": "",
+  "need_manual_input": false,
+  "status_code": 200
+}
