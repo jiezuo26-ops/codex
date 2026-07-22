@@ -1,0 +1,18 @@
+{
+  "source": {
+    "platform": "xiaohongshu_search",
+    "name": "希声碎碎念",
+    "url": "https://www.xiaohongshu.com/search_result?keyword=%E5%B8%8C%E5%A3%B0%E7%A2%8E%E7%A2%8E%E5%BF%B5",
+    "type": "creator_search",
+    "priority": "7"
+  },
+  "url": "https://www.xiaohongshu.com/search_result?keyword=%E5%B8%8C%E5%A3%B0%E7%A2%8E%E7%A2%8E%E5%BF%B5",
+  "fetched_at": "2026-07-22T10:35:42.867556+00:00",
+  "success": true,
+  "title": "希声碎碎念 - 小红书搜索",
+  "summary": "",
+  "published_at": "",
+  "error": "",
+  "need_manual_input": false,
+  "status_code": 200
+}
