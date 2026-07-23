@@ -1,0 +1,18 @@
+{
+  "source": {
+    "platform": "xiaohongshu_search",
+    "name": "跨境老鸟Mike",
+    "url": "https://www.xiaohongshu.com/search_result?keyword=%E8%B7%A8%E5%A2%83%E8%80%81%E9%B8%9FMike",
+    "type": "creator_search",
+    "priority": "7"
+  },
+  "url": "https://www.xiaohongshu.com/search_result?keyword=%E8%B7%A8%E5%A2%83%E8%80%81%E9%B8%9FMike",
+  "fetched_at": "2026-07-23T10:36:21.584809+00:00",
+  "success": true,
+  "title": "跨境老鸟Mike - 小红书搜索",
+  "summary": "",
+  "published_at": "",
+  "error": "",
+  "need_manual_input": false,
+  "status_code": 200
+}
