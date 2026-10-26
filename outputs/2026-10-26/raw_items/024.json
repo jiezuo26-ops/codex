@@ -1,0 +1,17 @@
+{
+  "source": {
+    "platform": "wechat_creator",
+    "name": "酷哥说电商",
+    "url": "https://m.amz123.com/author-263",
+    "type": "creator",
+    "priority": "8"
+  },
+  "url": "https://m.amz123.com/author-263",
+  "fetched_at": "2026-10-26T07:29:11.724104+00:00",
+  "success": false,
+  "title": "",
+  "summary": "",
+  "published_at": "",
+  "error": "TimeoutError: The read operation timed out",
+  "need_manual_input": true
+}
