@@ -1,0 +1,17 @@
+{
+  "source": {
+    "platform": "wechat_creator",
+    "name": "悉尼刘哥",
+    "url": "https://m.amz123.com/author-13653",
+    "type": "creator",
+    "priority": "7"
+  },
+  "url": "https://m.amz123.com/author-13653",
+  "fetched_at": "2026-11-09T09:17:19.493794+00:00",
+  "success": false,
+  "title": "",
+  "summary": "",
+  "published_at": "",
+  "error": "TimeoutError: The read operation timed out",
+  "need_manual_input": true
+}
